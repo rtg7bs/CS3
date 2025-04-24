@@ -31,15 +31,14 @@ CS3/
 │   │ ├── 01-test-stationarity.ipynb
 │   │ ├── 02-arima.ipynb
 │   │ └── 03-autoencoder.ipynb
-│   ├── EXAMPLE_PLOTS
-│   │ ├── cpu-util-plot-arima.png
-│   │ ├── cpu-util-plot-autoencoder.png
-│   │ ├── net-in-plot-arima.png
-│   │ ├── net-in-plot-autoencoder.png
-│   │ ├── req-count-plot-arima.png
-│   │ └── req-count-plot-autoencoder.png
-│   └── Motivation.pdf
-│
+│   └── EXAMPLE_PLOTS
+│     ├── cpu-util-plot-arima.png
+│     ├── cpu-util-plot-autoencoder.png
+│     ├── net-in-plot-arima.png
+│     ├── net-in-plot-autoencoder.png
+│     ├── req-count-plot-arima.png
+│     └── req-count-plot-autoencoder.png
+│   
 ├── RUBRIC&HOOK/
 │   ├── Hook.pdf
 │   └── Rubric.pdf
